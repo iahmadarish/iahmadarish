@@ -1,16 +1,29 @@
-# Hi there 👋
+### Hi there 👋, I am Ishaq Ahmad
+#### I am Web Developer with MERN
+![I am Web Developer with MERN](https://scontent.fzyl2-1.fna.fbcdn.net/v/t39.30808-6/434332341_2257169917964451_7222350110324769828_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFFr9tdz1P0qHy3YFofs4TcZ6QtaQATt8BnpC1pABO3wPriB4JJabmKcvueuLhzZi9snLsWayacVbfVZaYz417S&_nc_ohc=zIPg2TaBKD4AX8pi_jH&_nc_ht=scontent.fzyl2-1.fna&oh=00_AfAMNm5C5eCje7PbkEdWeo3MBX9zNnkneqbXrkUAimWcMg&oe=660D7A2F)
+
+I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting robust and scalable web applications. With one year of hands-on experience in the field, I thrive on tackling complex challenges and turning them into elegant solutions.
+
+Skills: Next JS / REACT / Java Script / HTML / CSS/ Tailwind CSS/ Node js/ MongoDB/ Express js/ React Native
+
+- 🔭 I’m currently working on e-Commerce Development 
+- 🌱 I’m currently learning App Development 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: You can reach me also this contact-01316445068 
 
 
-**iahmadarish/iahmadarish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iahmadarish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/md-ahmad-58ba091a9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ishaqmoonira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_me_ahmad_ishaq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ishaq.vercel.app/)  
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=iahmadarish)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahmadarish)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iahmadarish&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/iahmadarish)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=iahmadarish)  
 
