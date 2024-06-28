@@ -1,7 +1,7 @@
 <h1>Hi there, I am Ishaq Ahmad</h1>
 <h2> 💲 I am Web Developer with MERN</h2>
 
-![💲 I am Web Developer with MERN](https://scontent.fdac4-2.fna.fbcdn.net/v/t39.30808-6/436205939_972209267951664_5979895668634862423_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pG1NiSGvzFwQ7kNvgHVcvcS&_nc_ht=scontent.fdac4-2.fna&oh=00_AYCewr4eJw3N8oFjifhY5zdMB8xG6rZBLc77TVzsZetK3g&oe=6647FD08)
+![💲 I am Web Developer with MERN]()
 
 <h4>I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in crafting robust and scalable web applications. With one year of hands-on experience in the field, I thrive on tackling complex challenges and turning them into elegant solutions.</h4>
 
