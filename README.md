@@ -2,7 +2,9 @@
 # 💫 About Me:
 <br> I’m currently working on expanding my skills in TypeScript and React Native/Next js.<br>Ask for front-end development projects Including the Full Stack Application.<br>I completed the Programming Hero Level 1 Course, which ignited my passion for coding! <br>Besides this, I am currently working as MERN Stack instructor at TECHLIGHT IT Solution. <br>
 
-(https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/450200700_2331290000552442_2567793074451798000_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wWJ76WHjwSkQ7kNvgHsP19Z&_nc_ht=scontent.fdac175-1.fna&oh=00_AYDFwB_VLAD2iBaVzLCIQ6r6lCXrGx2WFNGmhXnrVMMwTQ&oe=6691E52F)
+![helo ](https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/450200700_2331290000552442_2567793074451798000_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wWJ76WHjwSkQ7kNvgHsP19Z&_nc_ht=scontent.fdac175-1.fna&oh=00_AYDFwB_VLAD2iBaVzLCIQ6r6lCXrGx2WFNGmhXnrVMMwTQ&oe=6691E52F)
+
+
 
 
 ###
