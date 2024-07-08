@@ -2,7 +2,11 @@
 # 💫 About Me:
 <br> I’m currently working on expanding my skills in TypeScript and React Native/Next js.<br>Ask for front-end development projects Including the Full Stack Application.<br>I completed the Programming Hero Level 1 Course, which ignited my passion for coding! <br>Besides this, I am currently working as MERN Stack instructor at TECHLIGHT IT Solution. <br>
 
+<div align="center">
+  <img height="200" src="https://www.facebook.com/photo/?fbid=2331290003885775&set=a.434640000217461"  />
+</div>
 
+###
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishaqmoonira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_ahmad_ishaq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ahmad-58ba091a9/) 
 
