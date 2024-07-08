@@ -1,6 +1,6 @@
 <h1>Hi there, I am Ishaq Ahmad</h1>
 # 💫 About Me:
-Hello, This is Ishaq Ahmad<br><br> I’m currently working on expanding my skills in TypeScript and React Native/Next js.<br>Ask for front-end development projects Including the Full Stack Application.<br>I completed the Programming Hero Level 1 Course, which ignited my passion for coding! <br>Besides this, I am currently working as MERN Stack instructor at TECHLIGHT IT Solution. <br>
+<br> I’m currently working on expanding my skills in TypeScript and React Native/Next js.<br>Ask for front-end development projects Including the Full Stack Application.<br>I completed the Programming Hero Level 1 Course, which ignited my passion for coding! <br>Besides this, I am currently working as MERN Stack instructor at TECHLIGHT IT Solution. <br>
 
 
 ## 🌐 Socials:
