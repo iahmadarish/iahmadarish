@@ -1,9 +1,9 @@
 <h1 align="center">Hello, Myself  Ishaq Ahmad</h1>
-<h3 align="center">🚀 Senior Full-Stack Developer | MERN | Next.js | Shopify | Instructor</h3>
+<h3 align="center"> Senior Full-Stack Developer | MERN | Next.js | Shopify | Instructor</h3>
 
 ---
 
-# 💫 About Me:
+# About Me:
 🔹 Currently working as a **Senior Developer** at **IOT Lab BD**.  
 🔹 Specialized in **MERN Stack, Next.js, Shopify, and Full-Stack Development**.  
 🔹 I have a strong passion for building scalable, high-performance, and user-friendly applications.  
