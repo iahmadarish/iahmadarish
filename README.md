@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaq Ahmad</h1>
+<h1 align="center">Hello, Myself  Ishaq Ahmad</h1>
 <h3 align="center">🚀 Senior Full-Stack Developer | MERN | Next.js | Shopify | Instructor</h3>
 
 ---
