@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/half-blood-prince/half-blood-prince/main/gh-profile-header.svg" alt="Header Image" style="max-width: 100%; height: auto;">
+    <img src="https://avatars.githubusercontent.com/u/143544402?s=400&u=a3f49adbbbecb6ac4a19242dbab1769f54f0fe4d&v=4" alt="Header Image" style="max-width: 100%; height: auto;">
 </div>
 
 <h1 align="center">🌟 Hello, I'm Ishaq Ahmad 🚀</h1>
