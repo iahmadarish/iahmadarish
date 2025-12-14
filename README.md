@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/143544402?s=400" width="160" style="border-radius:50%" />
-</div>
-
 <h1 align="center">Ishaq Ahmad 👋</h1>
 <h3 align="center">Senior Full‑Stack Developer · MERN · Next.js · Shopify</h3>
 
